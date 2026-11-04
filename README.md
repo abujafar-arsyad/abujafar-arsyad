@@ -26,3 +26,8 @@ Semua nama dan catatan pada gambar fiktif.
 ## Sedang dipelajari
 
 - Python, lewat freeCodeCamp (Python Certification).
+
+## Kontak
+
+- WhatsApp: [+62 811-4070-404](https://wa.me/628114070404)
+- Email: [putraarsadyanto@gmail.com](mailto:putraarsadyanto@gmail.com)
